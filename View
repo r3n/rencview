@@ -1,11 +1,11 @@
 REBOL [
 	Name:    rencview-wrapper
-    Title:   "View Module Wrapper"
+	Title:   "View Module Wrapper"
 	File:    %view
 	Author:  "R3N Open source developers"
-    Version: 0.0.0
-    Type:    module
-    Export:  [all sorts of stuff!]
+	Version: 0.0.0
+	Type:    module
+	Export:  [all sorts of stuff!]
 ]
 
 ; Just a starter for now
@@ -38,4 +38,3 @@ REBOL [
 		import %android/displayer.reb
 	]
 ; eof or extra empty line humpf, who cares?
-
