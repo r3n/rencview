@@ -1,9 +1,9 @@
 REBOL [
 	Name:    rencview-wrapper
 	Title:   "View Module Wrapper"
-	File:    %view
+	File:    %view.reb
 	Author:  "R3N Open source developers"
-	Version: 0.0.0
+	Version: 0.0.0.1
 	Type:    module
 	Export:  [all sorts of stuff!]
 ]
